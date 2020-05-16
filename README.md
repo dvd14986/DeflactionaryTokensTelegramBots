@@ -20,8 +20,11 @@ In some systems last update of requests library could cause problem with web3. T
 *pip install requests==2.10.0*
 
 *pip install web3*
+
 *pip install mysql.connector*
+
 *pip intall bs4*
+
 *pip install telepot*
 
 ## Telegram Configuration
