@@ -22,7 +22,14 @@ In some systems last update of requests library could cause problem with web3. T
 *pip install web3*
 *pip install mysql.connector*
 *pip intall bs4*
+*pip install telepot*
 
+## Telegram Configuration
+Talk with @BotFather to create new bot and get bot token.
+
+Check this to know how to get the channel id. https://stackoverflow.com/questions/33858927/how-to-obtain-the-chat-id-of-a-private-telegram-channel
+
+For public channel, use @usinfobot to get the id or use group/channel username. 
 
 ## Usage
 Simply execute script from python3 when you need. You can add in cron or windows scheduler to run when you need.
