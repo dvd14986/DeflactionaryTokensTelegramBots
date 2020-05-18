@@ -34,5 +34,8 @@ Check this to know how to get the channel id. https://stackoverflow.com/question
 
 For public channel, use @usinfobot to get the id or use group/channel username. 
 
+## web3 endpoint
+If you don't have a local eth endpoint, you need an infura KEY to connect to the web3 endpoint. Make it for free at https://infura.io/ and insert key in the web3 configuration into the script.
+
 ## Usage
 Simply execute script from python3 when you need. You can add in cron or windows scheduler to run when you need.
